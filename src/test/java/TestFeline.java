@@ -7,7 +7,7 @@ import org.mockito.junit.MockitoJUnitRunner;
 
 import static org.junit.Assert.assertEquals;
 
-public class TestFeline {
+ public class TestFeline {
     Feline feline;
     @Test
     public void familyName() {

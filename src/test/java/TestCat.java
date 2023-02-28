@@ -16,7 +16,7 @@ public class TestCat {
 
     Feline feline;
 
-    @Test
+     @Test
       public void getCatsSound() {
         Cat cat = new Cat(feline);
         String expectedSound = "Мяу";

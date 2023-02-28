@@ -9,7 +9,7 @@ import java.util.List;
 import static org.junit.Assert.assertEquals;
 
 @RunWith(Parameterized.class)
-public class TestLion {
+ public class TestLion {
     private String checkSex;
     private boolean checkHasMane;
     public TestLion(String checkSex, boolean checkHasMane) {
